@@ -2,7 +2,7 @@
 //replace below params with your db params 
         $servername = "sql12.freesqldatabase.com";
         $username = "sql12391013";
-        $password = "KBQTBAR5JKT";
+        $password = "BQTBAR5JKT";
         $database = "sql12391013";
 
 // Create connection
